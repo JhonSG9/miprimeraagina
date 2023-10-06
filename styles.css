@@ -156,3 +156,9 @@ a:hover {
 @media (max-width: 768px) {
   /* Aquí puedes escribir los estilos que se aplicarán en pantallas más pequeñas */
 }
+
+.greeting{
+    color: #b59a61;
+    text-align: center;
+
+}
